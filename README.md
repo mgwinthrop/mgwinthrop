@@ -1,36 +1,27 @@
 # Michael Gray
 
-**Engineering leader · Product architect · Technology co-founder**  
-London, UK
+**Engineering leader · Product architect · Technology co-founder** · London, UK
 
-I work at the intersection of product architecture, hands-on engineering and technical leadership. I lead Engineering at Method, with interim Product leadership responsibilities, and build practical tools to explore how AI changes software delivery.
+I lead Engineering at Method, with interim Product leadership, and build small tools to explore how AI changes software delivery. Before that I co-founded GlobeSherpa (CTO; mobile ticketing and payments) and StoryNow (a guided video storytelling platform).
 
-Previously, I co-founded GlobeSherpa as CTO, working on mobile ticketing and payments, and co-founded StoryNow, where I worked on the architecture, application development, testing, deployment and production support of a guided video storytelling platform.
+## Focus
 
-## Current focus
+- **AI-enabled delivery:** clear specs, useful context, automated checks, accountable human review.
+- **Agent workflows:** making execution, status and failure visible.
+- **Product architecture:** connecting user needs to systems teams can build and run.
 
-- AI-enabled delivery: clear specifications, useful context, automated checks and accountable human review.
-- Agent workflows: making execution, status and failure visible.
-- Product architecture: connecting user needs to systems that teams can build, operate and improve.
+## Projects
 
-## Selected public projects
+Experiments and learning projects.
 
-These repositories are experiments and learning projects; each should be read in that context.
+- [rig-morning-digest](https://github.com/mgwinthrop/rig-morning-digest): status board for an unattended development lane
+- [sentiment-analysis-node](https://github.com/mgwinthrop/sentiment-analysis-node): sentiment analysis with Node.js libraries
+- [sentiment-analysis-react](https://github.com/mgwinthrop/sentiment-analysis-react): React playground for sentiment analysis and audio recording
 
-| Project | What it explores |
-| --- | --- |
-| [rig-morning-digest](https://github.com/mgwinthrop/rig-morning-digest) | A heartbeat and status board for an unattended development lane, with a morning digest on the roadmap. |
-| [sentiment-analysis-node](https://github.com/mgwinthrop/sentiment-analysis-node) | Sentiment analysis experiments using Node.js libraries. |
-| [sentiment-analysis-react](https://github.com/mgwinthrop/sentiment-analysis-react) | A React playground for sentiment analysis and audio recording. |
+## Writing and background
 
-## Selected writing and background
+- [Where AI Budgets Go](https://www.method.com/insights/where-ai-budgets-go/), with Ed Mangini, 2026
+- [StoryNow patent](https://patents.google.com/patent/US11532332B2/en): co-inventor with Tamara Joi Park, granted 2022
+- [GlobeSherpa founder interview](https://www.geekwire.com/2014/michael-gray/), GeekWire, 2014
 
-- [Where AI Budgets Go](https://www.method.com/insights/where-ai-budgets-go/) — co-authored with Ed Mangini, 2026.
-- [StoryNow patent: video content collection and usage system](https://patents.google.com/patent/US11532332B2/en) — named co-inventor with Tamara Joi Park; granted in 2022.
-- [GlobeSherpa founder interview](https://www.geekwire.com/2014/michael-gray/) — a 2014 interview about my background and the company.
-
-## How I work
-
-I use AI coding tools alongside architecture decisions, code review and verification. I value explicit tradeoffs, reproducible checks and a clear account of what works and what still needs work.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/michael-gray-1337966/)
+[LinkedIn](https://www.linkedin.com/in/michael-gray-1337966/)
